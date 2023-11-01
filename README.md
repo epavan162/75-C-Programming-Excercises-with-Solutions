@@ -1,1 +1,3 @@
 # 75-C-Programming-Excercises-with-Solutions
+<h3>C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations. C was originally developed by Dennis Ritchie between 1969 and 1973 at Bell Labs. It has since become one of the most widely used programming languages of all time, with C compilers from various vendors available for the majority of existing computer architectures and operating systems.</h3>
+<h2>The best way we learn anything is by practice and exercise questions.</h2>
